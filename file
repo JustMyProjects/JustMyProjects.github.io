@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title> MyFirstProject </title>
+    </title><h1>mi primera web</h1></title>
+</head>
+
+<body>
+    <h1>¡Hola!</h1>
+    <p>Estoy aprendiendo desarrollo web.</p>
+
+    <button>Haz clic</button>
+</body>
+</html>
